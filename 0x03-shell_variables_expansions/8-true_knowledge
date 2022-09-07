@@ -1,2 +1,2 @@
 #!/bin/bash
-Sum=$(expr $128 + $TRUEKNOWLEDGE)
+$(expr $128 + $TRUEKNOWLEDGE)
